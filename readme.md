@@ -1,4 +1,4 @@
-# crypto-hash
+*1234# crypto-hash
 
 > Tiny hashing module that uses the native crypto API in Node.js and the browser
 
